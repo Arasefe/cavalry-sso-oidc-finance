@@ -109,8 +109,8 @@ Compare the `sid` claim across all three dashboards — it will be identical, pr
 | `cavalry-sso-oidc-finance` | 4001 | OIDC | ID Token claims & JWT structure |
 | `cavalry-sso-oidc-hr` | 4002 | OIDC | SSO session reuse & `sid` claim |
 | `cavalry-sso-oidc-marketing` | 4003 | OIDC | Scopes, access token vs ID token |
-| `cavalry-hr-portal` | 3001 | SAML | SAML claims table |
-| `cavalry-dev-tools` | 3002 | SAML | Raw SAML assertion payload |
-| `cavalry-finance` | 3003 | SAML | User assignment access control |
-| `cavalry-saml-app` | 3004 | SAML | SP-initiated SAML flow walkthrough |
-| `cavalry-gen-five` | 3005 | SAML | Session metadata & continuity |
+| `cavalry-sso-saml-hr` | 3001 | SAML | SAML claims table |
+| `cavalry-sso-saml-devtools` | 3002 | SAML | Raw SAML assertion payload |
+| `cavalry-sso-saml-finance` | 3003 | SAML | User assignment access control |
+| `cavalry-sso-saml-portal` | 3004 | SAML | SP-initiated SAML flow walkthrough |
+| `cavalry-sso-saml-operations` | 3005 | SAML | Session metadata & continuity |
